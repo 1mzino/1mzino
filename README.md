@@ -1,6 +1,4 @@
-👋 Hi, I’m Imran! ...or by my screen name @aer1al
-
-👀 I’m interested in Javascript + Node.js and tend to use Next.js for all my projects!
+👋 Hi there, I’m Imran
 
 
 <!---
